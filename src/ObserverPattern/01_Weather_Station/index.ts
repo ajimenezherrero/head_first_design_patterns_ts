@@ -1,3 +1,5 @@
 import { WeatherStation } from './WeatherStation';
+import { WeatherStationHeatIndex } from './WeatherStationHeatIndex';
 
-WeatherStation.start()
+//WeatherStation.start()
+WeatherStationHeatIndex.start()
